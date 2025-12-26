@@ -52,6 +52,21 @@ export default {
           DEFAULT: "hsl(var(--success))",
           foreground: "hsl(var(--success-foreground))",
         },
+        /* Extended UI color scale */
+        ui: {
+          1: "hsl(var(--ui-1))",
+          2: "hsl(var(--ui-2))",
+          3: "hsl(var(--ui-3))",
+          4: "hsl(var(--ui-4))",
+          5: "hsl(var(--ui-5))",
+          6: "hsl(var(--ui-6))",
+          7: "hsl(var(--ui-7))",
+          8: "hsl(var(--ui-8))",
+          9: "hsl(var(--ui-9))",
+          10: "hsl(var(--ui-10))",
+          11: "hsl(var(--ui-11))",
+          12: "hsl(var(--ui-12))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
